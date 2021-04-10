@@ -42,7 +42,7 @@
 
 <!-- MEDIUM:START -->
 - [Müziğimi Spotify, Apple Music, Tidal gibi platformlarda nasıl dağıtabilirim?](https://erdemkiiliic.medium.com/m%C3%BCzi%C4%9Finizi-spotify-apple-music-tidal-gibi-platformlarda-nas%C4%B1l-da%C4%9F%C4%B1tabilirsiniz-198af01c8392)
-- [Kompresör (Compressor) nedir? Nasıl ve niçin kullanılır?](https://erdemkiiliic.medium.com/kompres%C3%B6r-compressor-nedir-nas%C4%B1l-ve-ni%C3%A7in-kullan%C4%B1l%C4%B1r-70c123d9485c)
+- [Kompresör (Compressor) nedir? Nasıl ve neden kullanılır?](https://erdemkiiliic.medium.com/kompres%C3%B6r-compressor-nedir-nas%C4%B1l-ve-ni%C3%A7in-kullan%C4%B1l%C4%B1r-70c123d9485c)
 <!-- MEDIUM:END -->
 
 <br />
