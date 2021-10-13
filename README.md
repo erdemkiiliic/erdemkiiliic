@@ -41,9 +41,9 @@
 ### Medium
 
 <!-- MEDIUM:START -->
+- [Charles Proxy nedir? Kurulumları nasıl yapılır?](https://erdemkiiliic.medium.com/charles-proxy-nedir-kurulumlar%C4%B1-nas%C4%B1l-yap%C4%B1l%C4%B1r-842aaa7485e4)
 - [Müziğimi Spotify, Apple Music, Tidal gibi platformlarda nasıl dağıtabilirim?](https://erdemkiiliic.medium.com/m%C3%BCzi%C4%9Finizi-spotify-apple-music-tidal-gibi-platformlarda-nas%C4%B1l-da%C4%9F%C4%B1tabilirsiniz-198af01c8392)
 - [Kompresör (Compressor) nedir? Nasıl ve neden kullanılır?](https://erdemkiiliic.medium.com/kompres%C3%B6r-compressor-nedir-nas%C4%B1l-ve-ni%C3%A7in-kullan%C4%B1l%C4%B1r-70c123d9485c)
-- [Charles Proxy nedir? Kurulumları nasıl yapılır?](https://erdemkiiliic.medium.com/charles-proxy-nedir-kurulumlar%C4%B1-nas%C4%B1l-yap%C4%B1l%C4%B1r-842aaa7485e4)
 <!-- MEDIUM:END -->
 
 <br />
