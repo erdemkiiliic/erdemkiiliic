@@ -29,7 +29,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
 <img align="left" alt="Charles Proxy" width="26px" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" />
 <img align="left" alt="TestRail" width="26px" src="https://www.alfasoft.com/images/products/TestRail/Images/TestRail_Logo_Square.png" />
-<img align="left" alt="Jira" width="26px" src="https://logowiki.net/uploads/logo/j/jira-1.svg" />
+<img align="left" alt="Jira" width="26px" src="https://webgate.ec.europa.eu/almtaxud/jira/images/atlassian-jira-logo-large.png" />
 
 <br />
 <br />
