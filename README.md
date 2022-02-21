@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Swift" width="24px" src="https://image.flaticon.com/icons/png/512/732/732250.png" />
+<img align="left" alt="Swift" width="24px" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" />
 <img align="left" alt="Python" width="24px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" />
 <img align="left" alt="Java" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
