@@ -1,4 +1,4 @@
-### computer engineer | self-taught audio engineer
+### software developer in test
 
 <img width="720px" src="https://media.giphy.com/media/3o7qE7or3f3cA9wmxq/giphy.gif">
 
