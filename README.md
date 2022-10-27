@@ -17,7 +17,7 @@
 <img align="left" alt="Gauge" width="24px" src="https://plugins.jetbrains.com/files/7535/243380/icon/pluginIcon.svg" />
 <img align="left" alt="Swift" width="24px" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" />
 <img align="left" alt="Python" width="24px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" />
-<img align="left" alt="Locust" width="24px" src="https://w7.pngwing.com/pngs/546/830/png-transparent-load-testing-locust-software-testing-gatling-software-performance-testing-gears-of-war-grass-web-application-silhouette.png" />
+<img align="left" alt="Locust" width="24px" src="https://www.pinclipart.com/picdir/big/214-2143794_locust-io-clipart.png" />
 <img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
