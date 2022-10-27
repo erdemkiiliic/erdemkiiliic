@@ -19,7 +19,7 @@
 <img align="left" alt="Locust" width="24px" src="https://www.pinclipart.com/picdir/big/214-2143794_locust-io-clipart.png" />
 <img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Espresso" width="26px" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2020/06/espresso-250x288.png" />
+<img align="left" alt="Espresso" width="26px" src="https://e7.pngegg.com/pngimages/390/563/png-clipart-test-application-test-automation-android-espresso-software-testing-android-android-smile.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Swift" width="24px" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" />
 <img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
