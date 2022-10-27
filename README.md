@@ -14,7 +14,7 @@
 <img align="left" alt="Java" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Rest Assured" width="24px" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" />
 <img align="left" alt="Gauge" width="24px" src="https://cdn.freebiesupply.com/logos/large/2x/gauge-logo-png-transparent.png" />
-
+<img align="left" alt="Jmeter" width="26px" src="https://jmeter.apache.org/images/favicon.png" />
 <img align="left" alt="Python" width="24px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" />
 <img align="left" alt="Locust" width="24px" src="https://www.pinclipart.com/picdir/big/214-2143794_locust-io-clipart.png" />
 <img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
@@ -28,7 +28,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" />
 <img align="left" alt="Charles Proxy" width="26px" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" />
-<img align="left" alt="Jmeter" width="26px" src="https://jmeter.apache.org/images/favicon.png" />
 <img align="left" alt="Jira" width="26px" src="https://logowiki.net/uploads/logo/j/jira-1.svg" />
 
 <br />
