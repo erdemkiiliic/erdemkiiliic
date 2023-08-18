@@ -12,12 +12,13 @@
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Appium" width="24px" src="http://appium.io/docs/en/2.1/assets/images/appium-logo-horiz.png" />
 <img align="left" alt="Rest Assured" width="24px" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" />
 <img align="left" alt="Gauge" width="24px" src="https://cdn.freebiesupply.com/logos/large/2x/gauge-logo-png-transparent.png" />
 <img align="left" alt="Jmeter" width="26px" src="https://jmeter.apache.org/images/favicon.png" />
 <img align="left" alt="Python" width="24px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" />
 <img align="left" alt="Locust" width="24px" src="https://www.pinclipart.com/picdir/big/214-2143794_locust-io-clipart.png" />
-<img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
+<img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Espresso" width="26px" src="https://developer.android.com/static/images/training/testing/espresso.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
