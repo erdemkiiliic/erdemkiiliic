@@ -12,7 +12,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="Appium" width="24px" src="https://i.ibb.co/pzPvLnD/Screenshot-2023-08-19-at-01-20-11-removebg-preview.png" />
+<img align="left" alt="Appium" width="24px" src="https://i.ibb.co/DWwYzj5/appium-removebg-preview.png" />
 <img align="left" alt="Rest Assured" width="24px" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" />
 <img align="left" alt="Gauge" width="24px" src="https://cdn.freebiesupply.com/logos/large/2x/gauge-logo-png-transparent.png" />
 <img align="left" alt="Jmeter" width="26px" src="https://jmeter.apache.org/images/favicon.png" />
