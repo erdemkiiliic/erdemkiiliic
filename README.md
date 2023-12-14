@@ -1,6 +1,6 @@
 ### software developer in test
 
-<iframe src="https://giphy.com/embed/LR5ZBwZHv02lmpVoEU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/network-electric-trapcode-LR5ZBwZHv02lmpVoEU">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/LR5ZBwZHv02lmpVoEU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### Connect with me:
 
