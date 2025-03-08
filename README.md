@@ -26,7 +26,7 @@
 <img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="Jenkins" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" />
+<img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />
 <img align="left" alt="Charles Proxy" width="26px" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" />
 
 <br />
